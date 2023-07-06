@@ -1,7 +1,7 @@
 <h1 align='center'>iOS Calculator Clone 📱</h1>
 
 ## Overview 📘
-iOS calculator app clone for practicing React Native while I'm learning the technologie.
+iOS calculator app clone for practicing React Native while I'm learning the technology.
 
 ## Screenshot 📷
 <img src='./calculator.png' width='200'>
